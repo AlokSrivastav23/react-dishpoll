@@ -1,5 +1,23 @@
 # react-dishpoll
 
+Host Url Link : https://dishpollalok.netlify.app/home
+
+# few Steps  to view the project on your browser.
+- Download zip file in my git repo 
+- Extract all zip folder
+- Open project in VS Code 
+- Goto new terminal 
+- Run "npm install" command to install required dependencies
+- Run "npm start" to view the web page locally at  http://localhost:3000 in the browser
+
+#And important part
+
+- I have some data user name and password
+- If i have sucessful login that page then i have started vote for Favourite food
+- I have done the part of vote after that i can see my vote results 
+
+
+
 ## Problem Statement
 
 Make a small react app for ranking dishes. Multiple users should be able to login into the app and vote for their favourite dishes and see the results of the poll.
