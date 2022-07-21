@@ -1,6 +1,6 @@
 # react-dishpoll
 
-Host Url Link : https://dishpollalok.netlify.app/home
+Host Url Link : https://dishpollalok.netlify.app
 
 # few Steps  to view the project on your browser.
 - Download zip file in my git repo 
